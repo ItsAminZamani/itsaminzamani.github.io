@@ -1,0 +1,21 @@
+[[project]]
+name = "Dissolve"
+desc = "My oldest Persian blog that shows the non-technical side of my life"
+links = [
+	{name = "link", url = "https://dissolve.blog"},
+]
+
+[[project]]
+name = "Persian Blog"
+desc = "this one shows the technical side of my life"
+links = [
+	{name = "link", url = "https://aminzamani.ir"},
+]
+
+[[project]]
+name = "Django Tutorials"
+desc = "an Open Source and free Persian translation of Django official tutorials"
+links = [
+	{name = "link", url = "https://djangotutorials.ir"},
+    {name = "github", url = "https://github.com/ItsAminZamani/django-tutorials"}
+]
