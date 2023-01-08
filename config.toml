@@ -37,7 +37,7 @@ anchors = "on"
 [extra]
 name = "Amin Zamani"                    # Your name
 id = "itsaminzamani"                      # Your id/username/handle
-bio = "A happy software engineer loves people, books, movies, science, and coding."                     # Your bio
+bio = "Quiet observer with a passion for coding, people, books, movies, and science."                     # Your bio
 avatar = "img/avatar.jpeg"       # Your avatar
 
 show_id = true                   # Whether to show your id in homepage
