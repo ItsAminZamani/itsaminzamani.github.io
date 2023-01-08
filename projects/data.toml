@@ -1,0 +1,35 @@
+[[project]]
+name = "CreativeMornings Isfahan"
+desc = "Creative Mornings Isfahan is a truly innovative and inspiring project that brings together the world's largest face-to-face creative community in the city of Isfahan. As the host of the Creative Mornings chapter in Isfahan, I was proud to launch this event for the first time in the city, bringing together local creative professionals and enthusiasts for monthly talks and discussions. With a focus on topics ranging from art and design to technology and business, Creative Mornings Isfahan offers something for everyone who is passionate about creativity and innovation. So if you're looking to connect with like-minded individuals, learn new things, and be inspired, be sure to check out Creative Mornings Isfahan!"
+links = [
+	{name = "link", url = "https://creativemornings.com/isf"},
+]
+
+[[project]]
+name = "RandomLettersBot"
+desc = "RandomLettersBot is a unique and exciting Telegram bot that allows users to send anonymous letters to one another. Simply send a message to the bot, and it will randomly select another user to receive your letter. No one will know who sent the letter or who received it, making it a fun and mysterious way to communicate with others. Whether you want to confess your secret crush, share a heartfelt message, or simply have a bit of fun, RandomLettersBot is the perfect platform. So why wait? Start sending anonymous letters today with RandomLettersBot!"
+links = [
+	{name = "link", url = "https://t.me/RandomLettersBot"},
+]
+
+[[project]]
+name = "Dissolve"
+desc = "Dissolve is a special and meaningful project for me, as it is my oldest Persian blog and represents the non-technical side of my life. On Dissolve, I share my thoughts, experiences, and reflections with a community of readers. From personal essays and creative writing to book reviews and cultural analysis, Dissolve is a diverse and engaging platform for self-expression."
+links = [
+	{name = "link", url = "https://dissolve.blog"},
+]
+
+[[project]]
+name = "Persian Blog"
+desc = "This is a technical blog that showcases my knowledge and skills in the field of computer science and engineering. From in-depth tutorials and technical guides to updates on the latest trends and tools, This blog is a comprehensive resource for anyone looking to learn more about the exciting world of technology."
+links = [
+	{name = "link", url = "https://aminzamani.ir"},
+]
+
+[[project]]
+name = "Django Tutorials"
+desc = "Django Tutorials is an open source and free Persian translation of the official Django tutorials, providing a valuable resource for those who want to learn this powerful web framework in their native language. Django is a high-level Python web framework that encourages rapid development and clean, pragmatic design. With Django Tutorials, you can easily access step-by-step guides and exercises that will help you get started with Django and build your own web applications. Whether you're a beginner looking to learn the basics or an experienced developer seeking to expand your knowledge, Django Tutorials is the perfect place to start. So why wait? Check out Django Tutorials today and start building your Django skills!"
+links = [
+	{name = "link", url = "https://djangotutorials.ir"},
+    {name = "github", url = "https://github.com/ItsAminZamani/django-tutorials"}
+]
